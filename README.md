@@ -6,7 +6,7 @@
 - C++
 - Linux
 ## 个人博客
-[blog](https://lcf163.gitee.io/)
+https://lcf163.gitee.io/
 ## 个人项目
 - [C++实现的Web服务器](https://github.com/lcf163/MyWebServer)
 - [SpringBoot实现的问答社区](https://github.com/lcf163/community)
