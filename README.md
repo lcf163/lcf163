@@ -2,4 +2,4 @@
 - 👋 Hi, 我是乘风。
 - 🌱 虽然菜，但是持续学习。
 ## 个人博客
-https://lcf163.gitee.io/
+https://lcf163.github.io/
