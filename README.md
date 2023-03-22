@@ -4,8 +4,8 @@
 - 🌱，持续学习~
 
 ## 技术栈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcf163&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcf163)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcf163&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcf163)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 博客
 https://lcf163.github.io/
