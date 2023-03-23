@@ -9,7 +9,3 @@
 
 ## 个人博客
 https://lcf163.github.io/
-
-## 个人项目
-[![C++实现的Web服务器](https://github-readme-stats.vercel.app/api/pin/?username=lcf163&repo=MyWebServer)](https://github.com/anuraghazra/github-readme-stats)
-[![SpringBoot实现的问答社区](https://github-readme-stats.vercel.app/api/pin/?username=lcf163&repo=community)](https://github.com/anuraghazra/github-readme-stats)
